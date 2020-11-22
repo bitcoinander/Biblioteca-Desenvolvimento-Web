@@ -1,4 +1,4 @@
 # Biblioteca-Desenvolvimento-Web
-- Em Desenvolvimento...
+- Em Desenvolvimento
 
 @oandersonbsilva
