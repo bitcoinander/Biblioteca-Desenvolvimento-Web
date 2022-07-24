@@ -5,7 +5,7 @@
 
 # 1 Tag de vídeo 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -24,7 +24,7 @@
 
 # 2 Tag de Audio 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -51,7 +51,7 @@
 
 # 3- tag figure e figurecaption
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -73,7 +73,7 @@
 
 # 4- atributos required e placeholder
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -98,7 +98,7 @@
 
 # 5- atributo type email e autofocus
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -124,7 +124,7 @@
 
 # 6- atributo content editable
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -143,7 +143,7 @@
 
 # 7-tag detail e summary
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -163,7 +163,7 @@
 
 # 8- tag detalist
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -189,7 +189,7 @@
 ```
 # 9- tag progress
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
